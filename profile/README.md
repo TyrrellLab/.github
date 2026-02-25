@@ -1,11 +1,10 @@
-# Dan Tyrrell, PhD
+# Dan Tyrrell's Laboratory
 
-**Principal Investigator | Tyrrell Laboratory**
 *University of Alabama at Birmingham, Birmingham, AL*
 
 ---
 
-## About Me
+## About Us
 
 We are a research team that combines wet-lab and dry-lab approaches to investigate aging-specific disease mechanisms. We use advanced single-cell technologies, spectral flow cytometry, and computational biology to understand how age impacts chronic inflammatory diseases.
 
