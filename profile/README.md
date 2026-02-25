@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Lab_logo.png" alt="Tyrrell Lab" width="300"/>
-</p>
-
 # Tyrrell Lab
 
 **Heersink School of Medicine · University of Alabama at Birmingham**
