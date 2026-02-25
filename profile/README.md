@@ -22,7 +22,7 @@ We study how aging reshapes immune responses in chronic inflammatory diseases, u
 | | |
 |---|---|
 | **[Dan Tyrrell](https://github.com/dantyrr)** | Principal Investigator |
-| **[Hasanul Banna Siam](https://github.com/mhbsiam)** | PhD Student |
+| **[Md Hasanul Banna Siam](https://github.com/mhbsiam)** | PhD Candidate |
 | **[Md Akkas Ali](https://github.com/mdakkasali)** | PhD Candidate |
 
 ---
