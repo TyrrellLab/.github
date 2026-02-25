@@ -39,7 +39,7 @@ The strongest risk factor for nearly all chronic diseases, from cardiovascular d
 
 • [Md Hasanul Banna Siam](https://github.com/mhbsiam/) — PhD Candidate
 
-• [Md Akkas Ali](https://github.com/mdakkasali/) — Graduate Student
+• [Md Akkas Ali](https://github.com/mdakkasali/) — PhD Candidate
 
 ---
 
