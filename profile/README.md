@@ -40,6 +40,8 @@ The strongest risk factor for nearly all chronic diseases, from cardiovascular d
 
 • [Md Akkas Ali](https://github.com/mdakkasali/) — PhD Candidate
 
+• [Haswanth Kolanuvada](https://github.com/HaswanthUAB/) — Masters Student
+
 ---
 
 ## Featured Dry Lab Publications & Projects
